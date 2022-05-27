@@ -8,5 +8,7 @@
 #### similarity matrix = https://drive.google.com/file/d/1DoUNOmz9P7MILQYcfCocRWPGvH5zAqPK/view?usp=sharing
 #### Download this models and save it in the cloned repository folder.
 #### 3.Install required libraries and dependencies:
-pip install -r requirements.txt (Python 2)
-
+#### $ pip install -r requirements.txt (Python 2)
+#### $ pip3 install -r requirements.txt (Python 3)
+####
+####
