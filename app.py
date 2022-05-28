@@ -63,7 +63,7 @@ if st.button('Recommend'):
     with col5:
         st.text(recommended_movie_names[4])
         st.image(recommended_movie_posters[4])
-    st.header('Can also see other movies like:') # next user will see movies less similar to the selected movie
+    st.header('Some other options:') # next user will see movies less similar to the selected movie
     col1, col2, col3, col4, col5 = st.columns(5)
     with col1:
         st.text(recommended_movie_names[5])
